@@ -1,0 +1,8 @@
+<create_config>
+  <name>Custom DDS Scan Config</name>
+  <comment>Configuration for scanning DDS vulnerabilities using read-dds-pkt-test.nasl</comment>
+  <nvt_selection>
+    <family>Custom</family>
+    <nvt oid="1.3.6.1.4.1.25623.1.0.999999"/>
+  </nvt_selection>
+</create_config>

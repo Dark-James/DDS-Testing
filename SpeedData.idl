@@ -1,0 +1,5 @@
+module SpeedModule {
+    struct SpeedData {
+        double speed;
+    };
+};
